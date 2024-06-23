@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "logic_component", "runnable_component",
+]
+resolver = "2"
